@@ -6,4 +6,6 @@ Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
 Master 1
 
+Master 2 
+
 Today we'll talk about their life.
